@@ -5,7 +5,7 @@
   "author": "Enrique Sotelo Ponce",
   "license": "MIT",
   "dependencies": {
-    "angular": "1.7.x",
+    "angular": "1.8.x",
     "bootstrap": "4.3.1"
   },
   "devDependencies": {
